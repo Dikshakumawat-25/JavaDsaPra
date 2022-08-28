@@ -1,0 +1,1 @@
+//print all subset of set of first n natural numbers
